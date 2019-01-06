@@ -1,0 +1,42 @@
+.page_titile{
+	font-size: 2em;
+	color:black;
+	position:relative;
+	font-weight: bold;
+	left:20px;
+	top:10px;
+}
+#header-nav{
+	border:none;
+	background-color: gray;
+	height: 60px;
+}
+nav>.container{
+	margin:0px;
+	padding:0px;
+	position:relative;
+}
+.food-section{
+	background-color:gray;
+}
+a:hover{
+	text-decoration: none;
+	color:black;
+}
+h1{
+	text-align:center;
+	font-weight:bold;
+	font-size:2em;
+}
+.title-section{
+	text-align: center;
+	font-weight: bold;
+}
+#button{
+	position:absolute;
+	top:0px;
+	right:0px;
+}
+.navbar-toggle .icon-bar{
+	height: auto;
+}
